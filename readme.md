@@ -1,0 +1,2 @@
+Proyecto perteneciente a Ignacio Loidi, estudiante de CODER-HOUSE. 
+El mismo es de una veterinaira situada en la ciudad de Ensenada, Provincia de Buenos Aires. Llamada CIVET Centro de Diagnóstico Veterinario Ensenada.
