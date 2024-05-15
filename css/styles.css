@@ -42,3 +42,75 @@ header nav ul li a:hover{
     filter: brightness(1,1);
     mix-blend-mode: multiply;
 }
+
+
+
+
+
+/*---------FOOTER----------*/ 
+
+.footer-index{
+    width: 100%;
+    background-color: #999a9c;
+    margin-top: auto;
+   
+}
+.footer-index .div-footer{
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    margin: auto;
+}
+
+.footer-index .div-footer .logo-footer{
+    width: 100px;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-index .div-footer .logo-footer img{
+    filter: brightness(1.1);
+    mix-blend-mode: multiply;
+    width: 200px;
+    margin-left: 90px;
+}
+
+.footer-index .div-footer h2{
+    color: black;
+    margin-bottom: 25px;
+    font-size: 20px;
+}
+
+.footer-index .div-footer p{
+    color: black;
+}
+
+.footer-index .div-footer .redes-footer a{
+    display: inline-block;
+    text-decoration: none;
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+    color: black;
+    margin-right: 10px;
+    background-color: grey;
+    text-align: center;
+    font-size: 30px;
+    transition: .5s;
+}
+
+.footer-index .div-footer .redes-footer a:hover{
+    background-color: #9370db;
+}
+
+
+.footer-index .div-copy{
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    font-size: 0.6rem;
+    display: flex;
+    flex-direction: column;
+}
